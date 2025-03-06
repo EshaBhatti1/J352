@@ -1,0 +1,74 @@
+body {
+  background-color:#ffffff;
+  color: #000000;
+}
+
+p {color:#ffffff
+ font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+h1 {color:#f0bb21;
+ font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+background-color: #008080;
+width: 100%;
+padding: 50px;
+
+text-align: center;
+.rubik-bubbles-regular {
+  font-family: "Rubik Bubbles", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+}
+
+h2 {color:#008080;
+ font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+a {
+  color: hotpink;
+}
+a:hover {
+  color: #f89828;
+}
+.subhead {
+  color: teal;
+  font-weight: 900;
+  line-height: 2rem;
+}
+
+.leftimage {
+  margin-right: 50px;
+}
+
+.trgrey {
+  background-color: #666;
+}
+
+table, th, td {
+  border: 1px solid #ff0000;
+  padding: 10px;
+  border-color: #008080;
+}
+
+
+
+
+
+
